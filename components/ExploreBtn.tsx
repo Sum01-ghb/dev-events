@@ -2,8 +2,6 @@
 import Image from "next/image";
 
 const ExploreBtn = () => {
-
-
   return (
     <button
       type="button"
